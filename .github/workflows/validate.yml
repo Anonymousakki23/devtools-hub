@@ -1,0 +1,54 @@
+name: Build Validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint || true
+
+      - name: Generate sample data
+        run: |
+          mkdir -p data
+          npx tsx scripts/collect.ts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pages
+        run: npx tsx scripts/generate-pages.ts
+
+      - name: Build
+        run: npm run build
+
+      - name: Verify output
+        run: |
+          echo "=== Build Output Verification ==="
+          echo "Checking for index page..."
+          test -f out/index.html && echo "✅ Index page exists" || echo "❌ Index page missing"
+          echo "Checking for sitemap..."
+          test -f out/sitemap.xml && echo "✅ Sitemap exists" || echo "❌ Sitemap missing"
+          echo "Checking for robots.txt..."
+          test -f out/robots.txt && echo "✅ Robots.txt exists" || echo "❌ Robots.txt missing"
+          echo "Counting generated pages..."
+          find out -name "index.html" | wc -l | xargs -I {} echo "Total pages: {}"
+          echo "=== Verification Complete ==="

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devtools-hub.pages.dev/sitemap.xml
+
+# DevTools Hub - Automated Curation
+# Updated daily via GitHub Actions

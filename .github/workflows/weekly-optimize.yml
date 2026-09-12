@@ -1,0 +1,53 @@
+name: Weekly Deep Optimization
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'  # Every Monday at 2 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore data cache
+        uses: actions/cache@v4
+        with:
+          path: data/
+          key: devtools-data-${{ github.run_id }}
+          restore-keys: devtools-data-
+
+      - name: Run deep optimization
+        run: npx tsx scripts/optimize.ts
+        env:
+          DEEP_OPTIMIZE: 'true'
+
+      - name: Regenerate pages
+        run: npx tsx scripts/generate-pages.ts
+
+      - name: Build and verify
+        run: npm run build
+
+      - name: Commit optimization results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ public/sitemap.xml src/app/generated/
+          git diff --staged --quiet || git commit -m "perf: weekly optimization pass $(date -u +%Y-%m-%d)"
+          git push

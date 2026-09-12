@@ -1,0 +1,37 @@
+{
+  "name": "devtools-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "collect": "tsx scripts/collect.ts",
+    "generate": "tsx scripts/generate-pages.ts",
+    "optimize": "tsx scripts/optimize.ts",
+    "pipeline": "tsx scripts/collect.ts && tsx scripts/generate-pages.ts && tsx scripts/optimize.ts",
+    "export-db": "tsx scripts/export-to-d1.ts"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "better-sqlite3": "^11.0.0",
+    "rehype-pretty-code": "^0.13.0",
+    "rehype-slug": "^6.0.0",
+    "remark-gfm": "^4.0.0",
+    "next-sitemap": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.5.0"
+  }
+}

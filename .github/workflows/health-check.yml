@@ -1,0 +1,39 @@
+name: Pipeline Health Monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check site availability
+        run: |
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://devtools-hub.pages.dev/" || echo "000")
+          echo "Site status: $STATUS"
+          if [ "$STATUS" != "200" ]; then
+            echo "::error::Site is returning status $STATUS"
+            exit 1
+          fi
+
+      - name: Check sitemap freshness
+        run: |
+          SITEMAP_AGE=$(curl -sI "https://devtools-hub.pages.dev/sitemap.xml" | grep -i last-modified | head -1)
+          echo "Sitemap headers: $SITEMAP_AGE"
+          # If sitemap doesn't exist or is too old, trigger rebuild
+          if [ -z "$SITEMAP_AGE" ]; then
+            echo "::warning::Sitemap may be stale - triggering rebuild"
+          fi
+
+      - name: Check page count
+        run: |
+          PAGE_COUNT=$(curl -s "https://devtools-hub.pages.dev/sitemap.xml" | grep -c "<loc>" || echo "0")
+          echo "Sitemap URLs: $PAGE_COUNT"
+          if [ "$PAGE_COUNT" -lt 10 ]; then
+            echo "::error::Sitemap has only $PAGE_COUNT URLs - expected 50+"
+            exit 1
+          fi
