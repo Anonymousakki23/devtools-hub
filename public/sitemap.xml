@@ -55,8 +55,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/ionic-team-ionic-framework/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/expo-expo/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/dbeaver-dbeaver/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/tanstack-query/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/apple-container/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/tanstack-query/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/moeru-ai-airi/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/gokumohandas-made-with-ml/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/metabase-metabase/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -107,8 +107,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/eugeneyan-applied-ml/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/sipeed-picoclaw/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/labring-fastgpt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/community-scripts-proxmoxve/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/jackwener-opencli/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/community-scripts-proxmoxve/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/gabime-spdlog/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/goharbor-harbor/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/grafana-loki/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -156,8 +156,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/keploy-keploy/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/slackhq-nebula/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/arc53-docsgpt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/tinygo-org-tinygo/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/dnshe-dnshe-freedomains/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/tinygo-org-tinygo/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/denisidoro-navi/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/imagemagick-imagemagick/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/apache-apisix/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -200,6 +200,7 @@
 <url><loc>https://devtools-hub.pages.dev/tools/icloud-photos-downloader-icloud-photos-downloader/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/0x4m4-hexstrike-ai/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/dhamaniasad-awesome-postgres/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/wix-detox/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/neon/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/nightwatchjs-nightwatch/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/kubescape-kubescape/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
