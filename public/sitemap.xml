@@ -35,8 +35,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/excalidraw/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/grafana-grafana/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/ocornut-imgui/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/josephmisiti-awesome-machine-learning/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/headroomlabs-ai-headroom/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/josephmisiti-awesome-machine-learning/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/ruvnet-ruflo/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/moby-moby/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/supabase/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -124,8 +124,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/surrealdb/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/marmelab-react-admin/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/shap-shap/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/sirupsen-logrus/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/promptfoo-promptfoo/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/sirupsen-logrus/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/apache-skywalking/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/lvgl-lvgl/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/spicetify-cli/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -152,8 +152,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/sebastianbergmann-phpunit/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/plausible/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/lionsoul2014-ip2region/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/adonisjs-core/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/dnshe-dnshe-freedomains/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/adonisjs-core/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/jlcodes99-cockpit-tools/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/keploy-keploy/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/slackhq-nebula/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -170,15 +170,15 @@
 <url><loc>https://devtools-hub.pages.dev/tools/cisofy-lynis/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/opf-openproject/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/mailhog-mailhog/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/raga-ai-hub-ragaai-catalyst/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/winsiderss-systeminformer/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/raga-ai-hub-ragaai-catalyst/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/dub-co/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/orcaslicer-orcaslicer/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/jasmine-jasmine/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/greydgl-pentestgpt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/mockito-mockito/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/web-infra-dev-midscene/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/rmyndharis-openwa/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/web-infra-dev-midscene/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/plait-board-drawnix/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/sqshq-sampler/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/shadow1ng-fscan/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -195,8 +195,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/piebald-ai-claude-code-system-prompts/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/langgptai-langgpt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/infracost-infracost/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/illacloud-illa-builder/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/manisso-fsociety/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/illacloud-illa-builder/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/0x4m4-hexstrike-ai/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/ther1d-shell-gpt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/icloud-photos-downloader-icloud-photos-downloader/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -215,8 +215,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/tyktechnologies-tyk/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/infosecn1nja-red-teaming-toolkit/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/mockery-mockery/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/google-auto/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/axllent-mailpit/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/google-auto/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/nezhahq-nezha/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/fossasia-visdom/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/iib0011-omni-tools/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -261,6 +261,7 @@
 <url><loc>https://devtools-hub.pages.dev/tools/latentcat-qrbtf/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/masscodeio-masscode/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/turso/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/tester-army-e2e/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/mrlesk-backlog-md/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/clearml-clearml/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/luraproject-lura/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -276,7 +277,6 @@
 <url><loc>https://devtools-hub.pages.dev/tools/netease-youdao-lobsterai/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/fine/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/jondot-hygen/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/tester-army-e2e/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/svix/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/ben1234560-k8s-paas/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/thelartians-moderncppstarter/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
