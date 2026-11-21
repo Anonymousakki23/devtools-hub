@@ -140,8 +140,8 @@
 <url><loc>https://devtools-hub.pages.dev/tools/abiosoft-colima/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/heroui-inc-heroui/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/jackwener-opencli/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/composiohq-composio/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/nanocoai-nanoclaw/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/composiohq-composio/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/eugeneyan-applied-ml/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/better-auth-better-auth/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/harvard-edge-cs249r-book/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -247,9 +247,9 @@
 <url><loc>https://devtools-hub.pages.dev/tools/tester-army-e2e/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/pinpoint-apm-pinpoint/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/sunnyyoung-wechattweak/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/tracer-cloud-opensre/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/0x4m4-hexstrike-ai/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/postmanlabs-httpbin/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/tracer-cloud-opensre/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/portkey-ai-gateway/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/anchore-grype/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/seleniumbase-seleniumbase/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -288,9 +288,9 @@
 <url><loc>https://devtools-hub.pages.dev/tools/sharkdp-hexyl/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/kanboard-kanboard/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/quasar-quasar/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/maximhq-bifrost/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/devexpress-testcafe/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/usekaneo-kaneo/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/maximhq-bifrost/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/higress-group-higress/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/l0ng-ai-openidea/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/swiftgen-swiftgen/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -310,6 +310,7 @@
 <url><loc>https://devtools-hub.pages.dev/tools/threemammals-ocelot/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/automazeio-ccpm/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/harisekhon-devops-bash-tools/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://devtools-hub.pages.dev/tools/flagsmith-flagsmith/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/woodpecker-ci-woodpecker/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/soldair-node-qrcode/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/ningzimu-codex-ppt-skill/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -319,7 +320,6 @@
 <url><loc>https://devtools-hub.pages.dev/tools/chenyme-grok2api/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/alyssaxuu-omni/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/ohmybash-oh-my-bash/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://devtools-hub.pages.dev/tools/flagsmith-flagsmith/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/microsoft-azuredatastudio/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/amacneil-dbmate/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://devtools-hub.pages.dev/tools/refly-ai-refly/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
